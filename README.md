@@ -21,7 +21,7 @@ End the program
 import numpy as np
 A=np.array([[1,3], [2,5]])
 b=np.array([5,-3])
-soln-np.linalg.solve (A,b)
+soln=np.linalg.solve (A,b)
 print(soln)
 ```
 
